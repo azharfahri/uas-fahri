@@ -45,7 +45,7 @@ if (isset($_POST['simpan'])) {
 
     <title>Struk Gaji</title>
   </head>
-  <body>
+  <body><br><br><br>
     <div class="container text-primary">
      <center>
      <div class="card" style="width: 50rem;">
